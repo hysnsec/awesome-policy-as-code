@@ -1,22 +1,22 @@
 # Awesome Policy-as-Code [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-List of awesome resources about Policy-as-Code included blogs, video, and tools.
+List of awesome resources about **Policy-as-Code** included blogs, videos, and tools.
 
 ## Contents
 
 - [Blogs](#blogs)
   - [Getting Started](#getting-started)
   - [Infrastructure as Code](#infrastructure-as-code)
-  - [CI/CD](#ci-cd)
+  - [CI/CD](#cicd)
   - [Kubernetes](#kubernetes)
   - [AWS](#aws)
   - [Azure](#azure)
 - [Videos](#videos)
-  - [Getting Started](#videos-getting-started)
-  - [Infrastructure as Code](#videos-infrastructure-as-code)
-  - [CI/CD](#videos-ci-cd)
-  - [Kubernetes](#videos-kubernetes)
-  - [Others](#videos-others)
+  - [Getting Started](#getting-started-1)
+  - [Infrastructure as Code](#infrastructure-as-code-1)
+  - [CI/CD](#cicd-1)
+  - [Kubernetes](#kubernetes-1)
+  - [Others](#others)
 - [Tools](#tools)
 
 ## Blogs
@@ -117,7 +117,7 @@ List of awesome resources about Policy-as-Code included blogs, video, and tools.
 - [Fregot](https://github.com/fugue/Fregot) - A set of tools for working with the Rego policy language, which is part of the Open Policy Agent (OPA) policy engine
 - [Deprek8ion](https://github.com/swade1987/deprek8ion) - A set of rego policies to monitor Kubernetes APIs deprecations
 
-## [Contributing](contributing.md)
+## Contributing
 
 Your contributions are always welcome.
 

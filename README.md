@@ -117,9 +117,13 @@ List of awesome resources about **Policy-as-Code** included blogs, videos, and t
 - [Fregot](https://github.com/fugue/Fregot) - A set of tools for working with the Rego policy language, which is part of the Open Policy Agent (OPA) policy engine
 - [Deprek8ion](https://github.com/swade1987/deprek8ion) - A set of rego policies to monitor Kubernetes APIs deprecations
 
+## Sponsor
+
+![Practical DevSecOps](images/practical-devsecops-logo.png)
+
 ## Contributing
 
-Your contributions are always welcome.
+Please refer the guidelines at [contributing.md for details](Contributing.md).
 
 ## License
 

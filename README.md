@@ -165,7 +165,7 @@ List of awesome resources about **Policy-as-Code** included blogs, videos, and t
 
 - [Kivera](https://kivera.io/product) - A policy engine for cloud security. Also provides UI for managing policies.
 
-- [Magalix](https://www.magalix.com/) 
+- [Magalix](https://www.magalix.com/) - Now apart of Weaveworks.
 
 - [Cloudformation Guard](https://github.com/aws-cloudformation/cloudformation-guard) - Policy-as-code domain-specific language(DSL) to write rules and validate JSON- and YAML-formatted data such as CloudFormation Templates, K8s configurations, and Terraform JSON plans/configurations against those rules.
 

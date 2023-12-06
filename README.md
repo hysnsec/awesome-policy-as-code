@@ -135,6 +135,10 @@ List of awesome resources about **Policy-as-Code** included blogs, videos, and t
 
 - [OPAL](https://github.com/authorizon/opal) - Policy and data administration, distribution, and real-time updates on top of Open Policy Agent
 
+- [OPCR](https://openpolicycontainers.com/) - An open-source project that secures the software supply chain of OPA policies. 
+
+- [Topaz](https://www.topaz.sh) - An open-source authorization project that provides a data plane for OPA policies.
+
 - [HashiCorp Sentinel](https://docs.hashicorp.com/sentinel) - A language and framework for policy built to be embedded in existing software to enable fine-grained, logic-based policy decisions
 
 - [Regula](https://github.com/fugue/regula) - A tool that evaluates CloudFormation and Terraform infrastructure-as-code for potential AWS, Azure, and Google Cloud security and compliance violations prior to deployment

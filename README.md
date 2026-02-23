@@ -167,7 +167,9 @@ List of awesome resources about **Policy-as-Code** included blogs, videos, and t
 
 - [Deprek8ion](https://github.com/swade1987/deprek8ion) - A set of rego policies to monitor Kubernetes APIs deprecations
 
-- [Cloud Custodian](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources 
+- [segspec](https://github.com/dormstern/segspec) - Generates Kubernetes NetworkPolicies from application config files (Spring Boot, Docker Compose, K8s manifests, Helm charts) with evidence tracing and CI diff gating
+
+- [Cloud Custodian](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
 
 ## Sponsor
 

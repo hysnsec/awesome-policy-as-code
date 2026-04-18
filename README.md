@@ -169,6 +169,8 @@ List of awesome resources about **Policy-as-Code** included blogs, videos, and t
 
 - [Cloud Custodian](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources 
 
+- [Venturalitica SDK](https://github.com/Venturalitica/venturalitica-sdk) - Open-source Python SDK (Apache-2.0) for policy-as-code enforcement on ML pipelines. Uses NIST OSCAL as the native policy format and enforces EU AI Act / ISO 42001 controls at training time, emitting validated Assessment Results as compliance evidence
+
 ## Sponsor
 
 ![Practical DevSecOps](images/practical-devsecops-logo.png)

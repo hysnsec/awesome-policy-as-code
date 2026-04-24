@@ -159,6 +159,8 @@ List of awesome resources about **Policy-as-Code** included blogs, videos, and t
 
 - [Kyverno](https://github.com/kyverno/kyverno) - A policy engine designed for Kubernetes. It can validate, mutate, and generate configurations using admission controls and background scans
 
+- [KubeStellar Console](https://github.com/kubestellar/console) - Open source AI-powered multi-cluster Kubernetes dashboard that integrates OPA/Gatekeeper, Kyverno, and Falco for unified policy-as-code enforcement and compliance visibility across hybrid edge and cloud environments. CNCF Sandbox project (Apache 2.0).
+
 - [kube-mgmt](https://github.com/open-policy-agent/kube-mgmt) - Sidecar for managing OPA on top of Kubernetes
 
 - [MagTape](https://github.com/tmobile/magtape) - A Policy-as-Code tool for Kubernetes that allows for evaluating Kubernetes resources against a set of defined policies to inform and enforce best practice configurations

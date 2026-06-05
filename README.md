@@ -139,6 +139,8 @@ List of awesome resources about **Policy-as-Code** included blogs, videos, and t
 
 - [Topaz](https://www.topaz.sh) - An open-source authorization project that provides a data plane for OPA policies.
 
+- [Tuning Engines](https://github.com/cerebrixos-org/tuningengines) - AI-specific policy-as-code and decision logging for model, MCP, skill, and agent traffic with YAML policies, shadow and enforce modes, approvals, and audit traces.
+
 - [HashiCorp Sentinel](https://docs.hashicorp.com/sentinel) - A language and framework for policy built to be embedded in existing software to enable fine-grained, logic-based policy decisions
 
 - [Regula](https://github.com/fugue/regula) - A tool that evaluates CloudFormation and Terraform infrastructure-as-code for potential AWS, Azure, and Google Cloud security and compliance violations prior to deployment

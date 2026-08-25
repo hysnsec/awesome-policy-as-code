@@ -167,7 +167,9 @@ List of awesome resources about **Policy-as-Code** included blogs, videos, and t
 
 - [Deprek8ion](https://github.com/swade1987/deprek8ion) - A set of rego policies to monitor Kubernetes APIs deprecations
 
-- [Cloud Custodian](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources 
+- [Cloud Custodian](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
+
+- [NiraNexus Model Council](https://model-council.niranexus.com) - Production adversarial deliberation engine with 21 mechanical pre-code gates. A bash script — not a configuration file — runs on every commit enforcing model integrity, code quality, brand consistency, infrastructure health, and documentation freshness. Exit code is the evidence. Zero self-reported compliance. See also the [engineering specification](https://niranexus.com/model-council) and [category definition](https://niranexus.com/what-is-adversarial-deliberation). 
 
 ## Sponsor
 

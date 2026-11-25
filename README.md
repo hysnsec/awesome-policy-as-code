@@ -169,6 +169,8 @@ List of awesome resources about **Policy-as-Code** included blogs, videos, and t
 
 - [Cloud Custodian](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources 
 
+- [GitGrit](https://github.com/kfirzvi-com/gitgrit) - Engineering standards as Python code, checked in a sandbox against every repository on each push, pull request and tag, with a score and badge per project (MIT, self-hostable)
+
 ## Sponsor
 
 ![Practical DevSecOps](images/practical-devsecops-logo.png)

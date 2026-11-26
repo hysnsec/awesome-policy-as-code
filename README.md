@@ -133,7 +133,7 @@ List of awesome resources about **Policy-as-Code** included blogs, videos, and t
 
 - [Styra DAS](https://www.styra.com/pricing) - Commercial tools for managing OPA at scale and created by the founders and maintainers of Open Policy Agent (OPA)
 
-- [OPAL](https://github.com/authorizon/opal) - Policy and data administration, distribution, and real-time updates on top of Open Policy Agent
+- [OPAL](https://github.com/permitio/opal) - Policy and data administration, distribution, and real-time updates on top of Open Policy Agent
 
 - [OPCR](https://openpolicycontainers.com/) - An open-source project that secures the software supply chain of OPA policies. 
 
